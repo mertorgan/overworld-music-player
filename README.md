@@ -22,7 +22,24 @@ This project was developed for a music streaming platform called "Overworld". Th
 - Session-based user authentication flow (login/logout interface)
 - Real-time search and filtering by song title, artist, or category
 
+## Screenshots
+
+### Home Page & Audio Player
+![Ana Sayfa](screenshots/ana-sayfa.jpg)
+
+### Search & Filtering
+![Arama Ekranı](screenshots/search.jpg)
+
+### Library & All Songs
+![Kütüphanem](screenshots/kutuphanem.jpg)
+
+### Favorite Songs
+![Favoriler](screenshots/favori-sarkilarin.jpg)
+
+### User Login Flow
+![Giriş Yap](screenshots/giris-yap.jpg)
+
 ## Developer
 
-Emir Mert Organ
+Emir Mert Organ  
 Computer Programming Student

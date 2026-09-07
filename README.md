@@ -1,16 +1,28 @@
-# React + Vite
+# Overworld - Music Streaming Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern music streaming web application developed using React, CSS3 and JavaScript.
 
-Currently, two official plugins are available:
+## Project Purpose
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This project was developed for a music streaming platform called "Overworld". The goal was to create a responsive, component-based web application featuring custom audio playback controls, user session management, a favorite songs system, and advanced playback modes (shuffle and repeat).
 
-## React Compiler
+## Technologies
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React (Vite)
+- JavaScript (ES6+)
+- HTML5 Audio API
+- CSS3 (Flexbox, Grid, Custom Scrollbars, Transitions)
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Responsive & collapsible sidebar navigation with stable iconography
+- Advanced audio player (play, pause, seek, volume control, duration tracking)
+- Shuffle mode and tiered repeat modes (List loop and Spotify-style Repeat 1)
+- Favorites management system with interactive heart buttons
+- Session-based user authentication flow (login/logout interface)
+- Real-time search and filtering by song title, artist, or category
+
+## Developer
+
+Emir Mert Organ
+Computer Programming Student
